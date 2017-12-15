@@ -1,4 +1,4 @@
-# 4commerce:env-settings
+# trankimcanh:env-settings
 
 This [meteorjs](https://www.meteor.com) package allows you to organize your settings inside your private assets directory. The configuration files will be autoloaded during startup based on the active environment.
 
@@ -15,7 +15,7 @@ The config files may be written (also mixed) in YAML and JSON notation.
 You can add this package to your meteor app like any other package from atmosphere
 
 ````
-$ meteor add 4commerce:env-settings
+$ meteor add trankimcanh:env-settings
 ````
 
 ### Directory structure
